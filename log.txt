@@ -1,0 +1,13 @@
+1718251253091: GET, /api/users
+1718251270161: POST, /api/users
+1718251325749: POST, /api/users, IP: ::1
+1718251331796: GET, /api/users, IP: ::1
+1718251986213: GET, /api/users, IP: ::1
+1718254503814: GET, /api/users, IP: ::1
+1718254543467: GET, /api/users, IP: ::1
+1718254576509: GET, /api/users, IP: ::1
+1718254637901: GET, /api/users, IP: ::1
+1718255663617: POST, /api/users, IP: ::1
+1718255700462: POST, /api/users, IP: ::1
+1718256103810: POST, /api/users, IP: ::1
+1718256140822: POST, /api/users, IP: ::1

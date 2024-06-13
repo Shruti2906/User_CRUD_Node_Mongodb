@@ -1,0 +1,19 @@
+designing REST API - JSON
+
+GET  /users - list all users - done
+GET  /users/2 - get user with Id 2   - done
+
+POST  /user/id  create new user
+
+PATCH  /users/1 - Edit the user with id 1
+
+DELETE  /users/1 - DELETE the user with id 1
+
+mockaroo.com - generates fake data for testing
+
+//dynamic path parameters
+GET  /api/users/:id
+:id -> variable i.e dynamic value
+
+
+app.use() ->why ,what,how?
